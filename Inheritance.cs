@@ -17,4 +17,8 @@ namespace csharpLxmn
     {
         public double bonus = 5000;
     }
+    class Developer : Employee
+    {
+        public double salary2 = 600000;
+    }
 }

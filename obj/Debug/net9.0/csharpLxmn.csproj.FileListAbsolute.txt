@@ -12,3 +12,4 @@ D:\csharpLxmn\obj\Debug\net9.0\refint\csharpLxmn.dll
 D:\csharpLxmn\obj\Debug\net9.0\csharpLxmn.pdb
 D:\csharpLxmn\obj\Debug\net9.0\csharpLxmn.genruntimeconfig.cache
 D:\csharpLxmn\obj\Debug\net9.0\ref\csharpLxmn.dll
+D:\csharpLxmn\obj\Debug\net9.0\csharpLxmn.sourcelink.json
