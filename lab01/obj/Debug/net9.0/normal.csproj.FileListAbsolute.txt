@@ -1,0 +1,14 @@
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.AssemblyInfoInputs.cache
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.AssemblyInfo.cs
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.csproj.CoreCompileInputs.cache
+E:\Codes\normal\Dotnetlab\bin\Debug\net9.0\normal.exe
+E:\Codes\normal\Dotnetlab\bin\Debug\net9.0\normal.deps.json
+E:\Codes\normal\Dotnetlab\bin\Debug\net9.0\normal.runtimeconfig.json
+E:\Codes\normal\Dotnetlab\bin\Debug\net9.0\normal.dll
+E:\Codes\normal\Dotnetlab\bin\Debug\net9.0\normal.pdb
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.dll
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\refint\normal.dll
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.pdb
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\normal.genruntimeconfig.cache
+E:\Codes\normal\Dotnetlab\obj\Debug\net9.0\ref\normal.dll
